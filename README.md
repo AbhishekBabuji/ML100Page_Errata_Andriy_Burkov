@@ -1,0 +1,3 @@
+# ML100Page_Errata_Andriy_Burkov
+
+HIT THE CLONE OR DOWNLOAD and then OPEN USING JUPYTER NOTEBOOK
